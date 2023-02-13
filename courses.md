@@ -10,7 +10,8 @@ The following is a list of free or paid online courses on machine learning, stat
 * [Deep Learning Nano Degree on Udacity](https://www.udacity.com/course/deep-learning-nanodegree--nd101) - $
 * [Intro to Deep Learning (MIT)](http://introtodeeplearning.com/)
 * [Stanford's CS20 Tensorflow for Deep Learning Research](http://web.stanford.edu/class/cs20si/)
-* [fast.ai](https://www.fast.ai/) - deep learning MOOC 
+* [fast.ai](https://www.fast.ai/) - deep learning MOOC
+* [Full-Stack Deep Learning](https://fullstackdeeplearning.com/) 
 * [Amazon's MLU-Explain](https://mlu-explain.github.io/) - Visual, Interactive Explanations of Core Machine Learning Concepts
 * [Machine Learning Specialization (University of Washington)](https://www.coursera.org/specializations/machine-learning) - Courses: Machine Learning Foundations: A Case Study Approach, Machine Learning: Regression, Machine Learning: Classification, Machine Learning: Clustering & Retrieval, Machine Learning: Recommender Systems & Dimensionality Reduction,Machine Learning Capstone: An Intelligent Application with Deep Learning; free
 * [Machine Learning Course (2014-15 session) (by Nando de Freitas, University of Oxford)](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/) - Lecture slides and video recordings.
@@ -51,3 +52,4 @@ The following is a list of free or paid online courses on machine learning, stat
 * [Interpretable AI](https://www.manning.com/books/interpretable-ai) - $
 * [Deploying a Deep Learning Model on Web and Mobile Applications Using TensorFlow](https://www.manning.com/liveproject/deploying-a-deep-learning-model-on-web-and-mobile-applications-using-tensorflow) - $ Hands-on project
 * [Complete Data Science and ML Course](https://www.scaler.com/data-science-course/) - $
+* [ML Observability Fundamentals](https://arize.com/ml-observability-fundamentals/) - free
