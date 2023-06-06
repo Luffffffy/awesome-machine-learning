@@ -16,10 +16,10 @@ Podcasts
 * [Linear Digressions](https://lineardigressions.com)
 * [Data Stories](http://datastori.es/)
 * [Learning Machines 101](https://www.learningmachines101.com/)
-* [Not So Standard Deviations](https://simplystatistics.org/2015/09/17/not-so-standard-deviations-the-podcast/)
 * [TWIMLAI](https://twimlai.com/shows/)
 * [Machine Learning Guide](http://ocdevel.com/podcasts/machine-learning)
 * [DataTalks.Club](https://anchor.fm/datatalksclub)
+* [Super Data Science Podcast with Jon Krohn](https://www.youtube.com/@SuperDataScienceWithJonKrohn)
 
 Newsletters
 -----------
