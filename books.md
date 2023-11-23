@@ -5,7 +5,8 @@ The following is a list of free and/or open source books on machine learning, st
 * [Distributed Machine Learning Patterns](https://github.com/terrytangyuan/distributed-ml-patterns)  - Book (free to read online) + Code
 * [The Hundred-Page Machine Learning Book](http://themlbook.com/wiki/doku.php)
 * [Real World Machine Learning](https://www.manning.com/books/real-world-machine-learning) [Free Chapters]
-* [An Introduction To Statistical Learning](https://www-bcf.usc.edu/~gareth/ISL/) - Book + R Code
+* [An Introduction To Statistical Learning With Applications In R](https://hastie.su.domains/ISLR2/ISLRv2_corrected_June_2023.pdf) - Book + R Code
+* [An Introduction To Statistical Learning With Applications In Python](https://hastie.su.domains/ISLP/ISLP_website.pdf) - Book + Python Code
 * [Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/) - Book
 * [Computer Age Statistical Inference (CASI)](https://web.stanford.edu/~hastie/CASI_files/PDF/casi.pdf) ([Permalink as of October 2017](https://perma.cc/J8JG-ZVFW)) - Book
 * [Probabilistic Programming & Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/) - Book + IPython Notebooks
@@ -66,7 +67,9 @@ The following is a list of free and/or open source books on machine learning, st
 - [Machine Learning Algorithms in Depth](https://www.manning.com/books/machine-learning-algorithms-in-depth) - Vadim Smolyakov - Book about practical implementations of dozens of ML algorithms.
 - [Optimization Algorithms](https://www.manning.com/books/optimization-algorithms) - Alaa Khamis - Book about how to solve design, planning, and control problems using modern machine learning and AI techniques.
 - [Practical Gradient Boosting](https://www.amazon.com/dp/B0BL1HRD6Z) by Guillaume Saupin
-- [Machine Learning System Design](https://www.manning.com/books/machine-learning-system-design) - Valerii Babushkin and Arseny Kravchenko - A book about planning and designing successful ML applications. 
+- [Machine Learning System Design](https://www.manning.com/books/machine-learning-system-design) - Valerii Babushkin and Arseny Kravchenko - A book about planning and designing successful ML applications.
+- [Fight Fraud with Machine Learning](https://www.manning.com/books/fight-fraud-with-machine-learning) - by Ashish Ranjan Jha - A book about developing scalable and tunable models that can spot and stop fraudulent activity.
+
 ## Deep Learning
 
 * [Deep Learning - An MIT Press book](https://www.deeplearningbook.org/)
